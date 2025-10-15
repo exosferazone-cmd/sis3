@@ -1,0 +1,1220 @@
+[29-Sep-2025 06:15:59 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:15:59 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:16:53 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:16:53 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:16:56 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[29-Sep-2025 06:16:56 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:74
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[29-Sep-2025 06:16:59 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:16:59 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:17:02 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:17:02 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:17:54 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:17:54 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:21:06 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:21:06 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:21:08 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:21:08 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:24:57 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:24:57 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:24:59 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:24:59 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:25:01 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:25:01 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:25:33 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:25:33 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:27:40 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:27:40 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:29:18 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:29:18 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:32:41 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:32:41 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:32:43 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:32:43 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:32:48 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[29-Sep-2025 06:32:48 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:74
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[29-Sep-2025 06:32:50 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 06:32:50 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/products.php:82
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 06:32:52 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[29-Sep-2025 06:32:52 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php:49
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(25): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[29-Sep-2025 06:32:55 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[29-Sep-2025 06:32:55 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php:49
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(25): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[29-Sep-2025 06:32:58 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:32:58 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:33:01 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[29-Sep-2025 06:33:01 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:74
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[29-Sep-2025 06:33:03 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:33:03 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:33:12 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:33:12 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:36:02 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:36:02 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:36:24 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:36:24 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(39): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:42:50 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:42:50 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(42): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:42:55 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:42:55 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(42): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:43:03 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:43:03 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(42): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:43:05 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[29-Sep-2025 06:43:05 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php:49
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(25): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(42): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[29-Sep-2025 06:43:08 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php on line 38
+[29-Sep-2025 06:43:08 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php:38
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(36): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showCreateForm()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(42): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php on line 38
+[29-Sep-2025 06:43:13 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 06:43:13 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/products.php:82
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(42): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 06:43:14 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:43:14 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(42): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:43:25 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 06:43:25 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/products.php:82
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(42): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 06:43:28 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[29-Sep-2025 06:43:28 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php:49
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(25): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(42): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[29-Sep-2025 06:43:29 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 06:43:29 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/products.php:82
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(42): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 06:43:36 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 06:43:36 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/products.php:82
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(42): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 06:45:03 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:45:03 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(42): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:45:11 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 06:45:11 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/products.php:82
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(42): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 06:59:56 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 06:59:56 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/products.php:82
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 06:59:57 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 06:59:57 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 07:00:01 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[29-Sep-2025 07:00:01 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php:49
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(25): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[29-Sep-2025 07:00:05 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[29-Sep-2025 07:00:05 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php:49
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(25): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[29-Sep-2025 07:00:07 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[29-Sep-2025 07:00:07 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:74
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[29-Sep-2025 07:00:12 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[29-Sep-2025 07:00:12 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:74
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[29-Sep-2025 07:00:26 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[29-Sep-2025 07:00:26 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:74
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[29-Sep-2025 07:00:29 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 07:00:29 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/products.php:82
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 07:00:46 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 07:00:46 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/products.php:82
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 07:00:50 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[29-Sep-2025 07:00:50 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php:49
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(25): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[29-Sep-2025 07:00:52 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php on line 52
+[29-Sep-2025 07:00:52 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php:52
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(36): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showCreateForm()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php on line 52
+[29-Sep-2025 07:01:38 Europe/Madrid] PHP Warning:  Undefined array key "product_id" in /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php on line 52
+[29-Sep-2025 07:01:38 Europe/Madrid] PHP Warning:  Undefined array key "quantity" in /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php on line 53
+[29-Sep-2025 07:01:39 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php on line 52
+[29-Sep-2025 07:01:39 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php:52
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(36): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showCreateForm()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php on line 52
+[29-Sep-2025 07:01:47 Europe/Madrid] PHP Warning:  Undefined array key "product_id" in /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php on line 52
+[29-Sep-2025 07:01:47 Europe/Madrid] PHP Warning:  Undefined array key "quantity" in /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php on line 53
+[29-Sep-2025 07:01:47 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php on line 52
+[29-Sep-2025 07:01:47 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php:52
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(36): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showCreateForm()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php on line 52
+[29-Sep-2025 07:01:51 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php on line 52
+[29-Sep-2025 07:01:51 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php:52
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(36): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showCreateForm()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php on line 52
+[29-Sep-2025 07:01:52 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 07:01:52 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 07:01:57 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[29-Sep-2025 07:01:57 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php:49
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(25): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[29-Sep-2025 07:01:58 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php on line 52
+[29-Sep-2025 07:01:58 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php:52
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(36): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showCreateForm()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php on line 52
+[29-Sep-2025 07:02:28 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 07:02:28 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/products.php:82
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 07:02:44 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 07:02:44 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/products.php:82
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 07:02:46 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[29-Sep-2025 07:02:46 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:74
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[29-Sep-2025 07:02:50 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 07:02:50 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/products.php:82
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 07:02:54 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 07:02:54 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/products.php:82
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 07:02:56 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[29-Sep-2025 07:02:56 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:74
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[29-Sep-2025 07:02:58 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 07:02:58 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/products.php:82
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 07:03:12 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 07:03:12 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/products.php:82
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 07:03:18 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[29-Sep-2025 07:03:18 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php:49
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(25): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[29-Sep-2025 07:03:19 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php on line 52
+[29-Sep-2025 07:03:19 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php:52
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(36): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showCreateForm()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php on line 52
+[29-Sep-2025 07:03:34 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 07:03:34 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 07:03:46 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 07:03:46 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 07:03:54 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 07:03:54 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/products.php:82
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 07:04:13 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[29-Sep-2025 07:04:13 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:74
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[29-Sep-2025 07:04:16 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 07:04:16 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 07:04:24 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 07:04:24 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/products.php:82
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[29-Sep-2025 07:04:28 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[29-Sep-2025 07:04:28 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php:49
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(25): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[29-Sep-2025 07:04:53 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[29-Sep-2025 07:04:53 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:74
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[29-Sep-2025 07:06:27 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[29-Sep-2025 07:06:27 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:74
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[29-Sep-2025 07:07:43 Europe/Madrid] PHP Warning:  Undefined array key "user_name" in /home/kvxiupyf/sis.exosferazone.com/templates/header.php on line 23
+[29-Sep-2025 07:07:43 Europe/Madrid] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php on line 13
+[29-Sep-2025 07:07:43 Europe/Madrid] PHP Warning:  Undefined array key "user_name" in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 4
+[29-Sep-2025 07:07:43 Europe/Madrid] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php on line 13
+[29-Sep-2025 07:07:43 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[29-Sep-2025 07:07:43 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[01-Oct-2025 22:31:57 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[01-Oct-2025 22:31:57 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[01-Oct-2025 22:32:00 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[01-Oct-2025 22:32:00 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:74
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[01-Oct-2025 22:32:03 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[01-Oct-2025 22:32:03 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/products.php:82
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[01-Oct-2025 22:32:14 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[01-Oct-2025 22:32:14 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php:49
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(25): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[01-Oct-2025 22:32:16 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php on line 52
+[01-Oct-2025 22:32:16 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php:52
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(36): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showCreateForm()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php on line 52
+[01-Oct-2025 22:34:23 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[01-Oct-2025 22:34:23 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:74
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[01-Oct-2025 22:34:37 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[01-Oct-2025 22:34:37 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:74
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[01-Oct-2025 22:34:39 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[01-Oct-2025 22:34:39 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/products.php:82
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[01-Oct-2025 22:34:41 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[01-Oct-2025 22:34:41 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php:49
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(25): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[01-Oct-2025 22:34:43 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php on line 52
+[01-Oct-2025 22:34:43 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php:52
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(36): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showCreateForm()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php on line 52
+[01-Oct-2025 22:34:55 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[01-Oct-2025 22:34:55 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:74
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 74
+[01-Oct-2025 22:40:26 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:40:26 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:78
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:41:21 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[01-Oct-2025 22:41:21 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[01-Oct-2025 22:41:24 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:41:24 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:78
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:41:42 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:41:42 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:78
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:44:47 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[01-Oct-2025 22:44:47 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php:24
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/AdminController.php(10): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): AdminController->showDashboard()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/admin-dashboard.php on line 24
+[01-Oct-2025 22:44:49 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:44:49 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:78
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:45:00 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:45:00 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:78
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:45:02 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:45:02 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:78
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:45:49 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[01-Oct-2025 22:45:49 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/products.php:82
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/products.php on line 82
+[01-Oct-2025 22:45:59 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[01-Oct-2025 22:45:59 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php:49
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(25): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sales-list.php on line 49
+[01-Oct-2025 22:46:00 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php on line 52
+[01-Oct-2025 22:46:00 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php:52
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(36): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->showCreateForm()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/sale-form.php on line 52
+[01-Oct-2025 22:46:09 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:46:09 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:78
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:46:11 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:46:11 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:78
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:48:20 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:48:20 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:78
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:49:22 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:49:22 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:78
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:50:30 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:50:30 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:78
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:50:32 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 22:50:32 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:78
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 23:00:02 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 23:00:02 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:78
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 23:00:17 Europe/Madrid] PHP Warning:  require_once(/home/kvxiupyf/sis.exosferazone.com/templates/footer.php): Failed to open stream: No such file or directory in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[01-Oct-2025 23:00:17 Europe/Madrid] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kvxiupyf/sis.exosferazone.com/templates/footer.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php:78
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Helpers.php(52): require_once()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(20): Helpers::loadView()
+#2 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->showList()
+#3 /home/kvxiupyf/sis.exosferazone.com/public/index.php(56): Router->dispatch()
+#4 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/templates/customers.php on line 78
+[04-Oct-2025 07:37:16 Europe/Madrid] PHP Fatal error:  Cannot redeclare ProductModel::getAllProducts() in /home/kvxiupyf/sis.exosferazone.com/src/models/ProductModel.php on line 26
+[04-Oct-2025 07:37:17 Europe/Madrid] PHP Fatal error:  Cannot redeclare ProductModel::getAllProducts() in /home/kvxiupyf/sis.exosferazone.com/src/models/ProductModel.php on line 26
+[04-Oct-2025 07:37:22 Europe/Madrid] PHP Fatal error:  Cannot redeclare ProductModel::getAllProducts() in /home/kvxiupyf/sis.exosferazone.com/src/models/ProductModel.php on line 26
+[04-Oct-2025 07:37:25 Europe/Madrid] PHP Fatal error:  Cannot redeclare ProductModel::getAllProducts() in /home/kvxiupyf/sis.exosferazone.com/src/models/ProductModel.php on line 26
+[04-Oct-2025 07:37:29 Europe/Madrid] PHP Fatal error:  Cannot redeclare ProductModel::getAllProducts() in /home/kvxiupyf/sis.exosferazone.com/src/models/ProductModel.php on line 26
+[04-Oct-2025 07:37:41 Europe/Madrid] PHP Fatal error:  Cannot redeclare ProductModel::getAllProducts() in /home/kvxiupyf/sis.exosferazone.com/src/models/ProductModel.php on line 26
+[04-Oct-2025 07:38:14 Europe/Madrid] PHP Fatal error:  Cannot redeclare ProductModel::getAllProducts() in /home/kvxiupyf/sis.exosferazone.com/src/models/ProductModel.php on line 26
+[04-Oct-2025 07:38:23 Europe/Madrid] PHP Fatal error:  Cannot redeclare ProductModel::getAllProducts() in /home/kvxiupyf/sis.exosferazone.com/src/models/ProductModel.php on line 26
+[04-Oct-2025 07:39:26 Europe/Madrid] PHP Fatal error:  Cannot redeclare ProductModel::getAllProducts() in /home/kvxiupyf/sis.exosferazone.com/src/models/ProductModel.php on line 26
+[04-Oct-2025 07:39:36 Europe/Madrid] PHP Fatal error:  Cannot redeclare ProductModel::getAllProducts() in /home/kvxiupyf/sis.exosferazone.com/src/models/ProductModel.php on line 26
+[04-Oct-2025 07:45:51 Europe/Madrid] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function SaleModel::addSale(), 2 passed in /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php on line 65 and exactly 3 expected in /home/kvxiupyf/sis.exosferazone.com/src/models/SaleModel.php:66
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php(65): SaleModel->addSale()
+#1 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->saveSale()
+#2 /home/kvxiupyf/sis.exosferazone.com/public/index.php(59): Router->dispatch()
+#3 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/models/SaleModel.php on line 66
+[04-Oct-2025 08:08:48 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php:50
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(50): PDOStatement->execute()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(61): Database->execute()
+#2 /home/kvxiupyf/sis.exosferazone.com/src/models/CustomerModel.php(67): Database->resultSet()
+#3 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(106): CustomerModel->searchCustomers()
+#4 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->getClientsApi()
+#5 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#6 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php on line 50
+[04-Oct-2025 08:08:50 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php:50
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(50): PDOStatement->execute()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(61): Database->execute()
+#2 /home/kvxiupyf/sis.exosferazone.com/src/models/CustomerModel.php(67): Database->resultSet()
+#3 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(106): CustomerModel->searchCustomers()
+#4 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->getClientsApi()
+#5 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#6 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php on line 50
+[04-Oct-2025 08:08:57 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php:50
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(50): PDOStatement->execute()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(61): Database->execute()
+#2 /home/kvxiupyf/sis.exosferazone.com/src/models/CustomerModel.php(67): Database->resultSet()
+#3 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(106): CustomerModel->searchCustomers()
+#4 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->getClientsApi()
+#5 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#6 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php on line 50
+[04-Oct-2025 08:09:14 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php:50
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(50): PDOStatement->execute()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(61): Database->execute()
+#2 /home/kvxiupyf/sis.exosferazone.com/src/models/ProductModel.php(136): Database->resultSet()
+#3 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(131): ProductModel->searchProducts()
+#4 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->getProductsApi()
+#5 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#6 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php on line 50
+[04-Oct-2025 08:09:14 Europe/Madrid] PHP Warning:  Undefined array key "quantity" in /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php on line 53
+[04-Oct-2025 08:09:14 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php:56
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->saveSale()
+#1 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#2 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php on line 56
+[04-Oct-2025 08:10:20 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php:50
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(50): PDOStatement->execute()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(61): Database->execute()
+#2 /home/kvxiupyf/sis.exosferazone.com/src/models/CustomerModel.php(67): Database->resultSet()
+#3 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(106): CustomerModel->searchCustomers()
+#4 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->getClientsApi()
+#5 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#6 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php on line 50
+[04-Oct-2025 08:10:21 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php:50
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(50): PDOStatement->execute()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(61): Database->execute()
+#2 /home/kvxiupyf/sis.exosferazone.com/src/models/CustomerModel.php(67): Database->resultSet()
+#3 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(106): CustomerModel->searchCustomers()
+#4 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->getClientsApi()
+#5 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#6 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php on line 50
+[04-Oct-2025 08:10:22 Europe/Madrid] PHP Warning:  Undefined array key "quantity" in /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php on line 53
+[04-Oct-2025 08:10:22 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php:56
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->saveSale()
+#1 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#2 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php on line 56
+[04-Oct-2025 08:10:46 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php:50
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(50): PDOStatement->execute()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(61): Database->execute()
+#2 /home/kvxiupyf/sis.exosferazone.com/src/models/CustomerModel.php(67): Database->resultSet()
+#3 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(106): CustomerModel->searchCustomers()
+#4 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->getClientsApi()
+#5 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#6 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php on line 50
+[04-Oct-2025 08:10:52 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php:50
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(50): PDOStatement->execute()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(61): Database->execute()
+#2 /home/kvxiupyf/sis.exosferazone.com/src/models/ProductModel.php(136): Database->resultSet()
+#3 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(131): ProductModel->searchProducts()
+#4 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->getProductsApi()
+#5 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#6 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php on line 50
+[04-Oct-2025 08:11:00 Europe/Madrid] PHP Warning:  Undefined array key "quantity" in /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php on line 53
+[04-Oct-2025 08:11:00 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php:56
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): SaleController->saveSale()
+#1 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#2 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/controllers/SaleController.php on line 56
+[04-Oct-2025 08:11:26 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php:50
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(50): PDOStatement->execute()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(61): Database->execute()
+#2 /home/kvxiupyf/sis.exosferazone.com/src/models/CustomerModel.php(67): Database->resultSet()
+#3 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(106): CustomerModel->searchCustomers()
+#4 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->getClientsApi()
+#5 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#6 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php on line 50
+[04-Oct-2025 08:15:47 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php:50
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(50): PDOStatement->execute()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(61): Database->execute()
+#2 /home/kvxiupyf/sis.exosferazone.com/src/models/CustomerModel.php(67): Database->resultSet()
+#3 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(106): CustomerModel->searchCustomers()
+#4 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->getClientsApi()
+#5 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#6 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php on line 50
+[04-Oct-2025 08:15:55 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php:50
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(50): PDOStatement->execute()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(61): Database->execute()
+#2 /home/kvxiupyf/sis.exosferazone.com/src/models/ProductModel.php(136): Database->resultSet()
+#3 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(131): ProductModel->searchProducts()
+#4 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->getProductsApi()
+#5 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#6 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php on line 50
+[04-Oct-2025 08:23:35 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php:50
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(50): PDOStatement->execute()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(61): Database->execute()
+#2 /home/kvxiupyf/sis.exosferazone.com/src/models/CustomerModel.php(64): Database->resultSet()
+#3 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(104): CustomerModel->searchCustomers()
+#4 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->getClientsApi()
+#5 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#6 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php on line 50
+[04-Oct-2025 08:23:40 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php:50
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(50): PDOStatement->execute()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(61): Database->execute()
+#2 /home/kvxiupyf/sis.exosferazone.com/src/models/ProductModel.php(123): Database->resultSet()
+#3 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(105): ProductModel->searchProducts()
+#4 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->getProductsApi()
+#5 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#6 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php on line 50
+[04-Oct-2025 08:23:43 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php:50
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(50): PDOStatement->execute()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(61): Database->execute()
+#2 /home/kvxiupyf/sis.exosferazone.com/src/models/ProductModel.php(123): Database->resultSet()
+#3 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(105): ProductModel->searchProducts()
+#4 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->getProductsApi()
+#5 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#6 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php on line 50
+[04-Oct-2025 08:23:44 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php:50
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(50): PDOStatement->execute()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(61): Database->execute()
+#2 /home/kvxiupyf/sis.exosferazone.com/src/models/ProductModel.php(123): Database->resultSet()
+#3 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(105): ProductModel->searchProducts()
+#4 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->getProductsApi()
+#5 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#6 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php on line 50
+[04-Oct-2025 08:23:55 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php:50
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(50): PDOStatement->execute()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(61): Database->execute()
+#2 /home/kvxiupyf/sis.exosferazone.com/src/models/ProductModel.php(123): Database->resultSet()
+#3 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(105): ProductModel->searchProducts()
+#4 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->getProductsApi()
+#5 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#6 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php on line 50
+[04-Oct-2025 08:24:06 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php:50
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(50): PDOStatement->execute()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(61): Database->execute()
+#2 /home/kvxiupyf/sis.exosferazone.com/src/models/CustomerModel.php(64): Database->resultSet()
+#3 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(104): CustomerModel->searchCustomers()
+#4 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->getClientsApi()
+#5 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#6 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php on line 50
+[04-Oct-2025 08:24:10 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php:50
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(50): PDOStatement->execute()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(61): Database->execute()
+#2 /home/kvxiupyf/sis.exosferazone.com/src/models/ProductModel.php(123): Database->resultSet()
+#3 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(105): ProductModel->searchProducts()
+#4 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->getProductsApi()
+#5 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#6 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php on line 50
+[04-Oct-2025 08:24:57 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php:50
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(50): PDOStatement->execute()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(61): Database->execute()
+#2 /home/kvxiupyf/sis.exosferazone.com/src/models/CustomerModel.php(64): Database->resultSet()
+#3 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(104): CustomerModel->searchCustomers()
+#4 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->getClientsApi()
+#5 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#6 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php on line 50
+[04-Oct-2025 08:24:58 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php:50
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(50): PDOStatement->execute()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(61): Database->execute()
+#2 /home/kvxiupyf/sis.exosferazone.com/src/models/CustomerModel.php(64): Database->resultSet()
+#3 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(104): CustomerModel->searchCustomers()
+#4 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->getClientsApi()
+#5 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#6 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php on line 50
+[04-Oct-2025 08:25:01 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php:50
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(50): PDOStatement->execute()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(61): Database->execute()
+#2 /home/kvxiupyf/sis.exosferazone.com/src/models/CustomerModel.php(64): Database->resultSet()
+#3 /home/kvxiupyf/sis.exosferazone.com/src/controllers/CustomerController.php(104): CustomerModel->searchCustomers()
+#4 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): CustomerController->getClientsApi()
+#5 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#6 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php on line 50
+[04-Oct-2025 08:25:07 Europe/Madrid] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php:50
+Stack trace:
+#0 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(50): PDOStatement->execute()
+#1 /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php(61): Database->execute()
+#2 /home/kvxiupyf/sis.exosferazone.com/src/models/ProductModel.php(123): Database->resultSet()
+#3 /home/kvxiupyf/sis.exosferazone.com/src/controllers/ProductController.php(105): ProductModel->searchProducts()
+#4 /home/kvxiupyf/sis.exosferazone.com/vendor/php-router/Router.php(31): ProductController->getProductsApi()
+#5 /home/kvxiupyf/sis.exosferazone.com/public/index.php(63): Router->dispatch()
+#6 {main}
+  thrown in /home/kvxiupyf/sis.exosferazone.com/src/utils/Database.php on line 50
